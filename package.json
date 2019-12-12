@@ -2,7 +2,7 @@
   "name": "calendar",
   "version": "1.0.0",
   "description": "calendar ui for google calendar api using lit-element",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,8 +10,8 @@
     "calendar",
     "lit-element"
   ],
-  "author": "marjorie etienne",
-  "license": "MIT",
+  "author": "Marjorie Etienne",
+  "license": "BSD-3-Clause",
   "dependencies": {
     "lit-element": "^2.2.1"
   }
